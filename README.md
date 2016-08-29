@@ -3,7 +3,7 @@ This python application uses a gmail robot to send an email reminder whenever a 
 
 How to
 ------
-Step 1. Create a gmail account for and add the account info to the file "Settings.txt" (RobotGmailUsername and RobotGmailPassword)
+Step 1. Create a gmail account for and add the account info to the file "Settings.txt" (RobotGmailUsername and RobotGmailPassword).
 
 Step 2. Add your own email in the file "Settings.txt" (AdminEmail)
     This email adress will receive potential error messages and such.
