@@ -1,0 +1,3 @@
+AdminEmail=
+RobotGmailUsername=
+RobotGmailPassword=
