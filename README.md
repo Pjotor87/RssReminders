@@ -13,4 +13,4 @@ Step 3. Add some tv shows to the file "RSSFeedUrls.txt" where each line in the f
     
 Step 4. Add one or more subscriber email adresses in the "Subscribers.txt" file.
 
-Step 5. Set up a cronjob or scheduled task that runs the application.
+Step 5. Set up a cronjob or scheduled task that runs "RSSReminders.py".
