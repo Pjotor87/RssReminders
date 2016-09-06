@@ -1,6 +1,8 @@
 # RssReminders
 This python application uses a gmail robot to send an email reminder whenever a new tv episode appears on rss-feeds from https://showrss.info/
 
+The target environment when I made this was my Raspberry pi 2 model B running raspbian 8.
+
 How to
 ------
 Step 1. Create a gmail account for and add the account info to the file "Settings.txt" (RobotGmailUsername and RobotGmailPassword).
@@ -14,3 +16,7 @@ Step 3. Add some tv shows to the file "RSSFeedUrls.txt" where each line in the f
 Step 4. Add one or more subscriber email adresses in the "Subscribers.txt" file.
 
 Step 5. Set up a cronjob or scheduled task that runs "RSSReminders.py".
+
+___
+
+Please send me a message if you have any questions/feedback or would like to contribute :)
