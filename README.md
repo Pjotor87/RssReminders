@@ -5,7 +5,7 @@ The target environment when I made this was my Raspberry pi 2 model B running ra
 
 How to
 ------
-Step 1. Create a gmail account for and add the account info to the file "Settings.txt" (RobotGmailUsername and RobotGmailPassword).
+Step 1. Create a gmail account and add the account info to the file "Settings.txt" (RobotGmailUsername and RobotGmailPassword). This account will send out email notifications.
 
 Step 2. Add your own email in the file "Settings.txt" (AdminEmail)
     This email adress will receive potential error messages and such.
